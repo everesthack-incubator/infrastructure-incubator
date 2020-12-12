@@ -1,4 +1,7 @@
 ## Requirements
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Name | Version |
 |------|---------|
@@ -42,3 +45,18 @@
 | template | Rendered template file (used in Workergroup) |
 | www | Route 53 record of the Wordpress deployed |
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.thapabishwa.de/"><img src="https://avatars1.githubusercontent.com/u/15176360?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bishwa Thapa</b></sub></a><br /><a href="#question-thapabishwa" title="Answering Questions">💬</a> <a href="https://github.com/everesthack-incubator/infrastructure-incubator/commits?author=thapabishwa" title="Documentation">📖</a> <a href="#infra-thapabishwa" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-thapabishwa" title="Maintenance">🚧</a> <a href="#mentoring-thapabishwa" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-thapabishwa" title="Project Management">📆</a> <a href="#talk-thapabishwa" title="Talks">📢</a> <a href="https://github.com/everesthack-incubator/infrastructure-incubator/commits?author=thapabishwa" title="Tests">⚠️</a> <a href="#tool-thapabishwa" title="Tools">🔧</a> <a href="https://github.com/everesthack-incubator/infrastructure-incubator/commits?author=thapabishwa" title="Code">💻</a> <a href="#ideas-thapabishwa" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-thapabishwa" title="Research">🔬</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->

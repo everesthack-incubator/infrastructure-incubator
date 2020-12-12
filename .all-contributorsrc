@@ -1,0 +1,35 @@
+{
+  "projectName": "infrastructure-incubator",
+  "projectOwner": "everesthack-incubator",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "thapabishwa",
+      "name": "Bishwa Thapa",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15176360?v=4",
+      "profile": "https://www.thapabishwa.de/",
+      "contributions": [
+        "question",
+        "doc",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "talk",
+        "test",
+        "tool",
+        "code",
+        "ideas",
+        "research"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
