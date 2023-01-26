@@ -3,6 +3,9 @@ resource "aws_acm_certificate" "eh_certificate" {
   validation_method = "DNS"
 
   tags = merge(local.tags, { Name = var.domain_name})
+  lifecycle {
+    create_before_destroy = true
+  }
 }
 
 data "aws_route53_zone" "eh_route53_zone" {
