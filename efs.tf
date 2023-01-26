@@ -1,6 +1,7 @@
 resource "aws_efs_file_system" "eh_efs" {
   creation_token = "${var.owner}_efs"
 
+  encrypted = true
 }
 
 resource "aws_efs_file_system_policy" "policy" {
